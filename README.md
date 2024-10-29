@@ -1,7 +1,8 @@
+<h1 align="center">Hi 👋, I'm Abhilash A Savadatti</h1>
 <h3 align="left">Hacktoberfest 2024: </h3>
 
 [![An image of @abhilashsavadatti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhilashsavadatti)](https://holopin.io/@abhilashsavadatti)
-<h1 align="center">Hi 👋, I'm Abhilash A Savadatti</h1>
+
 <h3 align="center">A passionate web developer from India</h3>
 
 - 🌱 I’m currently learning **Spring boot**
